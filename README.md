@@ -1,5 +1,7 @@
 # alt+K
 Simple bash script to emulate in Linux/zsh the cmd +  K from macOS/OSX 
+![image](https://user-images.githubusercontent.com/245020/161075879-7fe677f2-2b63-4197-b176-f19436d8d521.png)
+
 
 1. Create a bash file with this content
 ````

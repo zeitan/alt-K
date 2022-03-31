@@ -12,4 +12,5 @@ bindkey -s '<code_keys>' '/path/to/your_file.sh\n'
 ````
 You can use showkey -a to get the code_keys value
 
+Working video:
 

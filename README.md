@@ -13,5 +13,7 @@ bindkey -s '<code_keys>' '/path/to/your_file.sh\n'
 You can use showkey -a to get the code_keys value
 
 
-https://user-images.githubusercontent.com/245020/160958338-a0ed1724-a61c-46ff-9430-2a0e44d7bac5.mp4
+https://user-images.githubusercontent.com/245020/160958810-bc262954-7bbe-4673-89de-d0bb30531f77.mp4
+
+
 

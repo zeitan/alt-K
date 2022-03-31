@@ -5,8 +5,8 @@ Simple bash script to emulate in Linux/zsh the cmd +  K from macOS/OSX
 ````
 echo -e '\0033\0143'
 ````
-2. Give execution permissions (chmod +x)
-3. add in your .zshrc/.zshprofile the following entry
+2. Give execution permissions to the file (````chmod +x````)
+3. Add in your .zshrc/.zshprofile the following entry
 ````
 bindkey -s '<code_keys>' '/path/to/your_file.sh\n'
 ````

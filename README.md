@@ -1,7 +1,7 @@
 # alt+K
 Simple bash script to emulate in Linux/zsh the cmd +  K from macOS/OSX 
 
-1. create a bash file with this content
+1. Create a bash file with this content
 ````
 echo -e '\0033\0143'
 ````

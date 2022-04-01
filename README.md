@@ -12,6 +12,11 @@ echo -e '\0033\0143'
 ````
 bindkey -s '<code_keys>' '/path/to/your_file.sh\n'
 ````
+4. can be used too and  avoid the creation of the bash file the below entry::
+```` 
+bindkey -s '<code_keys>' 'clear\n'
+````
+
 You can use ```` showkey -a ```` to get the code_keys value
 
 
